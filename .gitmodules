@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "zoolog"]
+	path = zoolog
+	url = https://github.com/josempozo/zoolog
+	shallow = true
+	registered = true
